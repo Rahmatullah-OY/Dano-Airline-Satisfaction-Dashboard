@@ -40,7 +40,11 @@ The analysis focuses on different customer demographics, travel classes, and fli
 ## 📊 Visuals / Dashboard  
 Below is a snapshot of the dashboard created in Power BI:  
  ![](https://github.com/Rahmatullah-OY/Dano-Airline-Satisfaction-Dashboard/blob/main/Screenshot%20(135).png)
+
+
  [Dashboard](https://github.com/Rahmatullah-OY/Dano-Airline-Satisfaction-Dashboard/blob/main/Screenshot%20(135).png)
+
+ 
 ---
 
 ## ✅ Recommendations  
